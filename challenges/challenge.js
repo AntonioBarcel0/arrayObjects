@@ -29,5 +29,5 @@ function filtrarOvejas(ovejas){
     })
 }
 
-const ovejasFiltradas = filtrarOvejas()
-console.log(ovejasFiltradas)
+const ovejasFiltradas = filtrarOvejas(listaOvejas);
+console.log(ovejasFiltradas);
